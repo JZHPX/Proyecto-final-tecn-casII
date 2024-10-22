@@ -37,6 +37,7 @@ public class Librero {
 
 	@Override
 	public String toString() {
+		System.out.println("dfafaf");
 		return "Librero [numeroSeccion=" + numeroSeccion + ", almacenamiento=" + almacenamiento + "]";
 	}
 	
