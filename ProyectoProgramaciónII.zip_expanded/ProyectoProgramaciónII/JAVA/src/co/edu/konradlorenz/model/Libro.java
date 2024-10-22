@@ -8,6 +8,7 @@ public class Libro {
 	private int annoPublicacion;
 	private String editorial;
 	
+	
 	public Libro(String nombreLibro, String genero, String autor, int annoPublicacion, String editorial) {
 		this.nombreLibro = nombreLibro;
 		this.genero = genero;
@@ -50,6 +51,7 @@ public class Libro {
 	
 	public int getAnnoPublicacion() {
 		return annoPublicacion;
+		this.
 	}
 	
 	public void setAnnoPublicacion(int annoPublicacion) {
