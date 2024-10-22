@@ -29,7 +29,9 @@ public class Ventana {
 		return opcion;
 	}
 
-
+	public static void mostrarMensaje(String mensaje) {
+		System.out.println(mensaje);
+	}
 
 
 }
