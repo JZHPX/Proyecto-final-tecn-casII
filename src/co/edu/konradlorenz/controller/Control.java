@@ -16,7 +16,7 @@ public class Control {
 
  	
 	public void run() {
-		//ostia
+		          System.out.println("OLISISISA");
 		int opc;
 		do {
 			Ventana.mostrarMenu();
