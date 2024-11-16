@@ -8,15 +8,15 @@ import co.edu.konradlorenz.model.*;
 
 
 public class Control {
-	
+	//holis
 	protected Libro objLibro = new Libro();
 	protected Ventana objVentana = new Ventana();
 	protected Lista objLista = new Lista(null);
 	protected Librero objLibrero = new Librero(0);
 
-	
+ 	
 	public void run() {
-		
+		//ostia
 		int opc;
 		do {
 			Ventana.mostrarMenu();
